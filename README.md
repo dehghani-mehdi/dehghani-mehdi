@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=dehghani-mehdi&hide=stars&show_icons=true&theme=dark)](https://github.com/dehghani-mehdi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dehghani-mehdi&layout=compact&theme=dark)](https://github.com/dehghani-mehdi)
